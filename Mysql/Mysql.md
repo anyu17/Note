@@ -44,7 +44,7 @@ update emp set ename ='李四' where id = 1;
 select * from emp;
 update emp set ename = '张三' WHERE id = 2;`
 ```
-<<<<<<< HEAD
-=======
 
->>>>>>> 7651f1f80abf828c76cfd0a5ea7b733388303100
+### 外键约束 
+
+外键约束:两个表之间建立联系,保证数据的完整性和唯一性.
